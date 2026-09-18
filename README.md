@@ -1,2 +1,2 @@
-# RubyTest
+# RailsTest
 Small Rails Project
